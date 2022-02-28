@@ -30,7 +30,7 @@ async def ara(client, message):
     if args.startswith(" "):
         await message.reply("Şarkı İsmi Giriniz!")
         return ""
-    status = await message.reply("🔎  Şarkı Aranıyor... Lütfen Bekleyin ⏳️")
+    status = await message.reply("🎶  Şarkı Aranıyor... En Fazla 1 Dakika İçinde Açılacaktır ⏳️")
     video_link = yt_search(args)
     if not video_link:
         await status.edit("Üzgünüm. Aradığın Şarkıyı Bulamadım 😞")
