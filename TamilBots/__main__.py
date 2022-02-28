@@ -9,7 +9,7 @@ from TamilBots.TamilBots import ignore_blacklisted_users
 from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
-👋 𝗛ey! [{}](tg://user?id={}),
+👋 Merhaba [{}](tg://user?id={}),
 
 \n\nBen GaanMusic V5. [🎶](https://gaancafe.ga/gaanmusic/gaanmusicv5.gif)
 
