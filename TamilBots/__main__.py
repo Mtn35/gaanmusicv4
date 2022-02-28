@@ -11,13 +11,13 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 👋 𝗛ey! [{}](tg://user?id={}),
 
-\n\nBen Müzik Botuyum. [🎶](https://gaancafe.ga/gaanmusic/gaanmusicv4.mp4)
+\n\nBen GaanMusic V5. [🎶](https://gaancafe.ga/gaanmusic/gaanmusicv5.gif)
 
 @GaanCafe Kurucuları Tarafından Geliştirilen Özel Bot 🤖
 
 Oynatmak İstediğin Şarkının Adını Gönder... 
 
-Örn. ```/ara Faded```
+Örn. ```/ara Affettim```
 """
 
 owner_help = """
