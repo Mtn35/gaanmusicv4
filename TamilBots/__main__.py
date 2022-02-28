@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 👋 Merhaba [{}](tg://user?id={}),
 
-\n\nBen GaanMusic V5. [🎶](https://gaancafe.ga/gaanmusic/gaanmusicv5.gif)
+\n\nBen GaanMusic V6. [🎶](https://gaancafe.ga/gaanmusic/gaanmusicv6.gif)
 
 @GaanCafe Kurucuları Tarafından Geliştirilen Özel Bot 🤖
 
